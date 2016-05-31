@@ -1,3 +1,3 @@
-var Github = require('./../js/github.js').getRepos;
+var Github = require('./../js/github.js').Github;
 
 var currentGithubObject = new Github();
