@@ -7,7 +7,7 @@ var currentGithubObject = new Github();
     var ghUsername = $('#ghUsernameInput').val();
     $('#ghUsernameInput').val("");
     $('#github-user').text(ghUsername);
-    currentGithubObject.getGeneralUserInfo();
+    currentGithubObject.getGeneralUserInfo(ghUsername);
   });
 
 });
