@@ -19,12 +19,12 @@ _You will need the following things properly installed on your computer._
 ## API Keys
 _Retrieve Personal Access Token and set up GitHub API key:_
 ```sh
-* _Visit the Settings area of your GitHub account_
-* _Select Personal Access Tokens from the sidebar_
-* _Hit Generate New Token_
-* _You will be provided a list of options. Do not check any of them!_
-* _Create an .env file at the top level of the Github User Lookup project directory_
-* _Include the following line:_
+* Visit the Settings area of your GitHub account
+* Select Personal Access Tokens from the sidebar
+* Hit Generate New Token
+* You will be provided a list of options. Do not check any of them!
+* Create an .env file at the top level of the Github User Lookup project directory
+* Include the following line:
 * `exports.apiKey = "Insert the token you generated here";`
 ```
 
