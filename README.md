@@ -25,7 +25,7 @@ _Retrieve Personal Access Token and set up GitHub API key:_
 * You will be provided a list of options. Do not check any of them!
 * Create an .env file at the top level of the Github User Lookup project directory
 * Include the following line:
-* `exports.apiKey = "Insert the token you generated here";`
+`exports.apiKey = "Insert the token you generated here";`
 ```
 
 ## Installation
